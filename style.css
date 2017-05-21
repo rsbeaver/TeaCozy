@@ -1,0 +1,24 @@
+body {
+  margin: 0;
+  font-family: "Helvetica", sans-serif;
+  background-color: black;
+  color: seashell;
+  font-size: 22px;
+  text-align: center;
+}
+
+a {
+  color: seashell;
+}
+
+h2, h3, h4 {
+  margin: 0;
+  padding: 10px;
+
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
