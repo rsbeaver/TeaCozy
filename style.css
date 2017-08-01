@@ -75,12 +75,6 @@ nav span {
   width: 100%;
 }
 
-.flex-container {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-  }
-
 /* STORE SECT  */
 
 #store {
